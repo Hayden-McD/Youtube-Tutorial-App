@@ -11,6 +11,7 @@
 		B1989721279DF22C008A54B6 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1989720279DF22C008A54B6 /* Video.swift */; };
 		B1989723279DF270008A54B6 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1989722279DF270008A54B6 /* Model.swift */; };
 		B1989725279E08F9008A54B6 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1989724279E08F9008A54B6 /* Response.swift */; };
+		B1989727279E0EFE008A54B6 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1989726279E0EFE008A54B6 /* ConstantsTemplate.swift */; };
 		B1FBEA26279A2F9B008E2131 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FBEA25279A2F9B008E2131 /* AppDelegate.swift */; };
 		B1FBEA28279A2F9B008E2131 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FBEA27279A2F9B008E2131 /* SceneDelegate.swift */; };
 		B1FBEA2A279A2F9B008E2131 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FBEA29279A2F9B008E2131 /* ViewController.swift */; };
@@ -24,6 +25,7 @@
 		B1989720279DF22C008A54B6 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		B1989722279DF270008A54B6 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		B1989724279E08F9008A54B6 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
+		B1989726279E0EFE008A54B6 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 		B1FBEA22279A2F9B008E2131 /* Youtube-Tutorial-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Youtube-Tutorial-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1FBEA25279A2F9B008E2131 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B1FBEA27279A2F9B008E2131 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				B1989720279DF22C008A54B6 /* Video.swift */,
 				B1989722279DF270008A54B6 /* Model.swift */,
 				B1989724279E08F9008A54B6 /* Response.swift */,
+				B1989726279E0EFE008A54B6 /* ConstantsTemplate.swift */,
 			);
 			path = "Youtube-Tutorial-App";
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				B1FBEA2A279A2F9B008E2131 /* ViewController.swift in Sources */,
 				B1FBEA26279A2F9B008E2131 /* AppDelegate.swift in Sources */,
 				B1FBEA28279A2F9B008E2131 /* SceneDelegate.swift in Sources */,
+				B1989727279E0EFE008A54B6 /* ConstantsTemplate.swift in Sources */,
 				B1989723279DF270008A54B6 /* Model.swift in Sources */,
 				B198971F279DF0F2008A54B6 /* Constants.swift in Sources */,
 				B1989721279DF22C008A54B6 /* Video.swift in Sources */,
