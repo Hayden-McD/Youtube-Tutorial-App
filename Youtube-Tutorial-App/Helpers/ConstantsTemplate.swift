@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Constants {
+struct ConstantsTemplate {
     
     static var API_KEY = ""
     static var PLAYLIST_ID = "UU2D6eRvCeMtcF5OGHf1-trw"
